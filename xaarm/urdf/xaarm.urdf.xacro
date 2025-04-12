@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro" name="xaarm">
+
+
+  <xacro:include filename="xaarm_base.xacro"/>
+
+<!-- remove comment when you want to use this only for arm / when you want to launch agri_bot then dnt forgrt to comment this -->
+
+  <!--<xacro:include filename="xaarm_ros2_control.xacro"/>
+  <xacro:include filename="xaarm_gazebo.xacro"/>-->
+<!-- ___________________________________________________________________________________________________ -->
+
+
+
+</robot>
